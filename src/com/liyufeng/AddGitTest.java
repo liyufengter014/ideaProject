@@ -9,6 +9,7 @@ public class AddGitTest {
   public static void main(String[] args) {
         System.out.println("hhhhh");
         System.out.println("hhhhh");
+        System.out.println("hhhhh");
     }
    
 }
